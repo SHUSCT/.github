@@ -1,2 +1,2 @@
 # .github
-Welcome to Shanghai University Super Computer Team
+Welcome to Shanghai University Super Computint Team
