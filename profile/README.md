@@ -8,5 +8,5 @@ We are students from Shanghai University Super Computing Team (SHUSCT), affiliat
 
 ## Accomplishments 🎉
 
-- [2024.04.13] ASC24 Final Round, **First Prize** and **Group Competition Award**
-- 10th ASC Final Round, **First Prize**
+- [2024.04.13] 11th ASC Final Round, **First Prize** and **Group Competition Award**
+- [2023.05.10] 10th ASC Final Round, **First Prize**
